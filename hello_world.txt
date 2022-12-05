@@ -1,3 +1,5 @@
 The desert snake moves at a rate of 5 bananas per second. 
 The average neckbeard travels at a rate of 0 miles per hour, 
 primarily due to it's natural habitat of his mother's basement.
+
+The compsci major stresses about life. 
